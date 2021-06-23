@@ -58,7 +58,6 @@ combined <- ggplot(species_data, aes(x = Climate_V.index, y = Fishing_V, colour 
   white_theme
 
 panelA <- ggMarginal(combined, groupColour = T, xparams = list(size=1.5), yparams = list(size=1.5))
-#panelA
 
 #Figure 1B and legend
 panelB <- ggplot(species_data,aes(y=Fishing_V, x=Climate_V.index,z=MicronutDensityScore) ) +
@@ -70,8 +69,6 @@ panelB <- ggplot(species_data,aes(y=Fishing_V, x=Climate_V.index,z=MicronutDensi
   scale_y_continuous("Vulnerability to fishing",breaks=c(0,25,50,75,100),labels=c("0","25","50","75","100")) +
   scale_x_continuous("Vulnerability to climate change",breaks=c(0,25,50,75,100),labels=c("0","25","50","75","100")) +
   white_theme + theme(legend.position="none")
-
-#panelB
 
 pleg <- ggplot(species_data,aes(y=Fishing_V, x=Climate_V.index,z=MicronutDensityScore) ) +
   geom_segment(aes(x = 50, y = 0, xend = 50 , yend =100),size=0.5,color="darkgrey")+
@@ -123,7 +120,7 @@ nut.cols<-c('Calcium'='#de2d26', 'Iron'='#636363', 'Zinc'='#3182bd', 'Vitamin A'
             'Selenium' = '#776EB0')
 
 ## estimate average nutrients per functional group (EnvTemp)
-thermal <- species_data %>% select(species,EnvTemp,MicronutDensityScore,rda_Calcium,rda_Iron,rda_Selenium,rda_Zinc,rda_Vitamin_A) %>%
+thermal <- species_data %>% dplyr::select(species,EnvTemp,MicronutDensityScore,rda_Calcium,rda_Iron,rda_Selenium,rda_Zinc,rda_Vitamin_A) %>%
   group_by(EnvTemp) %>%
   dplyr::summarise(across(MicronutDensityScore:rda_Vitamin_A, list(mean = ~mean(.x)))) %>% # get mean per EnvTemp
   ## turn to long format
@@ -156,7 +153,7 @@ gEnvTemp <-ggplot(thermal, aes(EnvTemp, rda)) +
 #Ridge plots (panels B-E)
 cols <- c('rda_Calcium'='#de2d26', 'rda_Iron'='#636363', 'rda_Zinc'='#3182bd', 'rda_Vitamin_A'='#31a354','rda_Selenium' = '#776EB0')
 
-thermalr <- species_data %>% select(EnvTemp,MicronutDensityScore,rda_Calcium,rda_Iron,rda_Selenium,rda_Zinc,rda_Vitamin_A) %>%
+thermalr <- species_data %>% dplyr::select(EnvTemp,MicronutDensityScore,rda_Calcium,rda_Iron,rda_Selenium,rda_Zinc,rda_Vitamin_A) %>%
   group_by(EnvTemp) %>%
   pivot_longer(rda_Calcium:rda_Vitamin_A, names_to = 'nutrient', values_to = 'rda') 
 

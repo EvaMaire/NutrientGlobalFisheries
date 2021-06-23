@@ -84,7 +84,7 @@ quartile1 <- ggplot(country_data, aes(y=VulnF_W, x=VulnCC_W, fill=MicronutDensit
   geom_text_repel(data = country_data %>% filter(lab == 1) , aes(label=countryISO),
                   direction = "both",
                   # Add extra padding around each text label.
-                  box.padding = unit(.5, 'cm'),
+                  box.padding = unit(.6, 'cm'),
                   # Color of the line segments.
                   segment.color = 'black',
                   # Width and transparency of the line segments.
@@ -347,7 +347,7 @@ countries <- paste(country_data$keepISO)
 standardise <- function(x){(x-mean(x))/(sd(x))} 
 fnut2$STaxRichness <- standardise(fnut2$TaxRichness)
 
-#Outliers 
+#Outliers?
 library(mgcv)
 mod1 = gam(MicronutDensityScore_W ~ s(STaxRichness, k=3) , data = fnut2)
 inf1 = influence.gam(mod1)
@@ -363,7 +363,7 @@ plot(mod2)
 #no outlier
 
 #Change name (too long)
-plyr::revalue(fnut2$countryISO, c("Bosnia & Herzegovina" = "BIH")) -> fnut2$countryISO
+#plyr::revalue(fnut2$countryISO, c("Bosnia & Herzegovina" = "BIH")) -> fnut2$countryISO #Already changed
 
 fnut2$lab <- rep(0,nrow(fnut2))
 fnut2$lab[which(fnut2$countryISO=="Latvia")] <- 1
@@ -400,7 +400,7 @@ pnut2 <- ggplot(data=fnut2,aes(x=MicronutDensityScore_W,y=MicronutEvenness,colou
 
 pnut2
 
-#Define outliers
+#Remove 1 outlier
 outl <- which(fnut2$countryISO=="United States") #Remove USA
 d <- fnut2[-outl,]
 

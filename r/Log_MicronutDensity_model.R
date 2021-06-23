@@ -1,45 +1,18 @@
-setwd("/Volumes/EM2T/Lancaster/SAU/revision/github")
-load("data/country_data.RData")
-country_data$ALLRichness <- round(country_data$ALLRichness)
-
-country_data <- country_data %>% select(keepISO,mean_nut,meanNUT_W,meanVulCC_W,meanVulF_W,color:yield_5Y,
-                                        cumulArea,RegionWB,hdi2018,ALLRichness,NutritionalDep) %>%
-  rename( countryISO = keepISO,
-          MicronutEvenness = mean_nut,
-          MicronutDensityScore_W = meanNUT_W,
-          VulnCC_W = meanVulCC_W,
-          VulnF_W = meanVulF_W,
-          TaxRichness = ALLRichness,
-          Vitamin_A_PII = VA_prev,
-          Zinc_PII = Zinc_prev,
-          Iron_PII = Iron_prev,
-          Calcium_PII = Ca_prev,
-          mean_PII = meanPrev)
-
-b <- which(is.na(country_data$RegionWB)==T)
-country_data[b,]
-missing <- c("Sub-Saharan Africa","Sub-Saharan Africa","Sub-Saharan Africa","Sub-Saharan Africa",
-             "Europe & Central Asia","East Asia & Pacific")
-
-country_data[b,"RegionWB"] <- missing
-
-#Script Vulnerability plot combining fishing, climate change and evenness
+#Script to run the log micronutrient density score (linear) model and re-produce Figure 3
 
 #Landings
 library(ggrepel)
 library(ggplot2)
 library(cowplot)
-#library(rlang)
 library(RColorBrewer)
 library(gridExtra)
 library(plyr)
 library(tidyverse)
 library(ggExtra)
-#library(ggpubr)
 library(lme4)
 
 #Load data
-#load("data/country_data.RData")
+load("data/country_data.RData")
 
 #Remove countries with missing values for HDI
 dat <- country_data[-which(is.na(country_data$hdi2018)==T),]
