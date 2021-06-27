@@ -11,6 +11,9 @@ We considered reported and unreported catches from the EEZ of each country and w
 
 [figures](/figures) contains outputs (Figs 1-4 and S1-S5).
 
+This repo contains the summary data but provides one example (see [clean_catch_data](/r/clean_catch_data.R)) which shows how to convert the raw SAU catch data into the summary data.
+Contact the SAU team to request additional data. 
+
 Data viz and analyses were run in R 4.0.3.
 
 If you would like to replicate the analysis, clone this repository and run the R code.
