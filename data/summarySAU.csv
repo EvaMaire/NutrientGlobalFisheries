@@ -1,0 +1,1907 @@
+taxon_scientific_name,class,nut
+Alopias,marine_finfish,1
+Alopias vulpinus,marine_finfish,1
+Anguilla anguilla,marine_finfish,1
+Aphia minuta,marine_finfish,1
+Argentina,marine_finfish,1
+Aristeidae,inv,0
+Aristeus antennatus,inv,0
+Atherinidae,marine_finfish,1
+Auxis,marine_finfish,1
+Auxis rochei,marine_finfish,1
+Auxis thazard,marine_finfish,1
+Belone belone,marine_finfish,1
+Belonidae,marine_finfish,1
+Bivalvia,inv,0
+Boops boops,marine_finfish,1
+Brama brama,marine_finfish,1
+Carangidae,marine_finfish,1
+Carcharhinidae,marine_finfish,1
+Carcharodon carcharias,marine_finfish,0
+Carcinus aestuarii,inv,0
+Cardiidae,inv,0
+Cephalopoda,inv,0
+Chamelea gallina,inv,0
+Chelidonichthys cuculus,marine_finfish,1
+Chondrichthyes,marine_finfish,0
+Clupeidae,marine_finfish,1
+Conger conger,marine_finfish,1
+Coryphaena hippurus,marine_finfish,1
+Crangon crangon,inv,0
+Decapoda,inv,0
+Dendrobranchiata,inv,0
+Dentex dentex,marine_finfish,1
+Dentex macrophthalmus,marine_finfish,1
+Dicentrarchus labrax,marine_finfish,1
+Diplodus annularis,marine_finfish,1
+Diplodus sargus,marine_finfish,1
+Donax,inv,0
+Elasmobranchii,marine_finfish,1
+Eledone,inv,0
+Engraulidae,marine_finfish,1
+Engraulis encrasicolus,marine_finfish,1
+Epinephelus,marine_finfish,1
+Epinephelus aeneus,marine_finfish,1
+Epinephelus marginatus,marine_finfish,1
+Euthynnus alletteratus,marine_finfish,1
+Gadiformes,marine_finfish,1
+Galeus,marine_finfish,1
+Galeus melastomus,marine_finfish,1
+Gastropoda,inv,0
+Gobiidae,marine_finfish,1
+Helicolenus dactylopterus,marine_finfish,1
+Hexanchus griseus,marine_finfish,1
+Homarus gammarus,inv,0
+Illex coindetii,inv,0
+Istiophoridae,marine_finfish,1
+Isurus oxyrinchus,marine_finfish,1
+Katsuwonus pelamis,marine_finfish,1
+Lamna nasus,marine_finfish,1
+Lepidopus caudatus,marine_finfish,1
+Leucoraja naevus,marine_finfish,1
+Lichia amia,marine_finfish,1
+Lithognathus mormyrus,marine_finfish,1
+Chelon auratus,marine_finfish,1
+Loliginidae,inv,0
+Loligo,inv,0
+Lophius,marine_finfish,1
+Maja squinado,inv,0
+Marine finfishes not identified,marine_finfish,0
+Marine fishes not identified,marine_finfish,0
+Marine pelagic fishes not identified,marine_finfish,0
+Melicertus kerathurus,inv,0
+Microcosmus sulcatus,inv,0
+Micromesistius poutassou,marine_finfish,1
+Miscellaneous marine crustaceans,inv,0
+Mollusca,inv,0
+Mugil cephalus,marine_finfish,1
+Mugilidae,marine_finfish,1
+Mullidae,marine_finfish,1
+Mullus barbatus barbatus,marine_finfish,1
+Mullus surmuletus,marine_finfish,1
+Mustelus,marine_finfish,1
+Mustelus asterias,marine_finfish,1
+Mustelus mustelus,marine_finfish,1
+Myliobatidae,marine_finfish,1
+Mytilus galloprovincialis,inv,0
+Nephropidae,inv,0
+Nephrops norvegicus,inv,0
+Oblada melanura,marine_finfish,1
+Octopodidae,inv,0
+Octopus vulgaris,inv,0
+Ostrea edulis,inv,0
+Pagellus acarne,marine_finfish,1
+Pagellus bogaraveo,marine_finfish,1
+Pagellus erythrinus,marine_finfish,1
+Pagrus pagrus,marine_finfish,1
+Palaemon serratus,inv,0
+Palinuridae,inv,0
+Palinurus elephas,inv,0
+Paracentrotus lividus,inv,0
+Parapenaeus longirostris,inv,0
+Perciformes,marine_finfish,1
+Platichthys flesus,marine_finfish,1
+Pleuronectiformes,marine_finfish,1
+Polyprion americanus,marine_finfish,1
+Pomatomus saltatrix,marine_finfish,1
+Prionace glauca,marine_finfish,1
+Raja,marine_finfish,1
+Raja clavata,marine_finfish,1
+Rajidae,marine_finfish,1
+Rajiformes,marine_finfish,1
+Sarda sarda,marine_finfish,1
+Sardina pilchardus,marine_finfish,1
+Sardinella,marine_finfish,1
+Sardinella aurita,marine_finfish,1
+Sarpa salpa,marine_finfish,1
+Scomber,marine_finfish,1
+Scomber colias,marine_finfish,1
+Scomber scombrus,marine_finfish,1
+Scombridae,marine_finfish,1
+Scophthalmus maximus,marine_finfish,1
+Scophthalmus rhombus,marine_finfish,1
+Scorpaena scrofa,marine_finfish,1
+Scorpaenidae,marine_finfish,1
+Scyliorhinidae,marine_finfish,1
+Scyliorhinus canicula,marine_finfish,1
+Sepia officinalis,inv,0
+Seriola dumerili,marine_finfish,1
+Serranidae,marine_finfish,1
+Serranus,marine_finfish,1
+Solea,marine_finfish,1
+Solea solea,marine_finfish,1
+Soleidae,marine_finfish,1
+Solenidae,inv,0
+Sparidae,marine_finfish,1
+Sparus aurata,marine_finfish,1
+Spicara,marine_finfish,1
+Spicara maena,marine_finfish,1
+Spicara smaris,marine_finfish,1
+Spondyliosoma cantharus,marine_finfish,1
+Sprattus sprattus,marine_finfish,1
+Squalidae,marine_finfish,1
+Squaliformes,marine_finfish,1
+Squalus,marine_finfish,1
+Squalus acanthias,marine_finfish,1
+Squatinidae,marine_finfish,1
+Squilla mantis,inv,0
+Tetrapturus belone,marine_finfish,1
+Teuthida,inv,0
+Thunnus,marine_finfish,1
+Thunnus thynnus,marine_finfish,1
+Todarodes sagittatus,inv,0
+Trachinotus ovatus,marine_finfish,1
+Trachinus draco,marine_finfish,1
+Trachurus,marine_finfish,1
+Trachurus mediterraneus,marine_finfish,1
+Trachurus trachurus,marine_finfish,1
+Trigla,marine_finfish,1
+Triglidae,marine_finfish,1
+Umbrina cirrosa,marine_finfish,1
+Xiphias gladius,marine_finfish,1
+Zeus faber,marine_finfish,1
+Acanthocardia tuberculata,inv,0
+Acanthocybium solandri,marine_finfish,1
+Aequipecten opercularis,inv,0
+Alopias superciliosus,marine_finfish,1
+Alosa,marine_finfish,1
+Alosa fallax,marine_finfish,1
+Anguilliformes,marine_finfish,1
+Argentina sphyraena,marine_finfish,1
+Argyrosomus regius,marine_finfish,1
+Arnoglossus laterna,marine_finfish,1
+Atherina boyeri,marine_finfish,1
+Balistes capriscus,marine_finfish,1
+Balistidae,marine_finfish,1
+Benthosema glaciale,marine_finfish,0
+Bothidae,marine_finfish,1
+Campogramma glaycos,marine_finfish,1
+Capros aper,marine_finfish,1
+Carcharhiniformes,marine_finfish,1
+Carcharhinus,marine_finfish,1
+Carcharhinus brachyurus,marine_finfish,1
+Carcharhinus limbatus,marine_finfish,1
+Carcharhinus longimanus,marine_finfish,1
+Carcharhinus plumbeus,marine_finfish,1
+Centrolophus niger,marine_finfish,1
+Centrophorus granulosus,marine_finfish,1
+Centroscymnus coelolepis,marine_finfish,1
+Cepola macrophthalma,marine_finfish,1
+Cetorhinus maximus,marine_finfish,1
+Chelidonichthys lucerna,marine_finfish,1
+Chelon labrosus,marine_finfish,1
+Chimaera monstrosa,marine_finfish,1
+Chlorophthalmidae,marine_finfish,0
+Citharus linguatula,marine_finfish,1
+Clupeiformes,marine_finfish,1
+Congridae,marine_finfish,1
+Coryphaena,marine_finfish,1
+Dalatias licha,marine_finfish,0
+Dasyatidae,marine_finfish,1
+Dasyatis pastinaca,marine_finfish,1
+Dentex,marine_finfish,1
+Dicentrarchus,marine_finfish,1
+Diplodus,marine_finfish,1
+Diplodus puntazzo,marine_finfish,1
+Diplodus vulgaris,marine_finfish,1
+Dipturus batis,marine_finfish,1
+Dipturus oxyrinchus,marine_finfish,1
+Echinorhinus brucus,marine_finfish,0
+Eledone cirrhosa,inv,0
+Epigonus,marine_finfish,1
+Epigonus telescopus,marine_finfish,1
+Epinephelus caninus,marine_finfish,1
+Etmopterus spinax,marine_finfish,1
+Eutrigla gurnardus,marine_finfish,1
+Galeocerdo cuvier,marine_finfish,1
+Galeorhinus galeus,marine_finfish,1
+Gobius niger,marine_finfish,1
+Goneplax rhomboides,inv,0
+Heptranchias perlo,marine_finfish,0
+Hoplostethus mediterraneus,marine_finfish,1
+Kajikia albida,marine_finfish,1
+Labridae,marine_finfish,1
+Lamnidae,marine_finfish,1
+Lampris guttatus,marine_finfish,1
+Lepidorhombus boscii,marine_finfish,1
+Lepidotrigla cavillone,marine_finfish,1
+Leucoraja circularis,marine_finfish,1
+Liocarcinus depurator,inv,0
+Liza,marine_finfish,1
+Lophiidae,marine_finfish,1
+Lophius budegassa,marine_finfish,1
+Lophius piscatorius,marine_finfish,1
+Macroramphosus scolopax,marine_finfish,1
+Macrouridae,marine_finfish,1
+Maurolicus muelleri,marine_finfish,1
+Miscellaneous aquatic invertebrates,inv,0
+Mola mola,marine_finfish,1
+Molva dypterygia,marine_finfish,1
+Moridae,marine_finfish,1
+Mullus,marine_finfish,1
+Muraena helena,marine_finfish,1
+Muraenidae,marine_finfish,1
+Nezumia aequalis,marine_finfish,1
+Octopoda,inv,0
+Octopus,inv,0
+Orcynopsis unicolor,marine_finfish,1
+Oxynotus centrina,marine_finfish,0
+Pagellus,marine_finfish,1
+Pagrus,marine_finfish,1
+Pagrus auriga,marine_finfish,1
+Pagrus caeruleostictus,marine_finfish,1
+Pecten jacobaeus,inv,0
+Penaeidae,inv,0
+Peristediidae,marine_finfish,1
+Phycis,marine_finfish,1
+Phycis blennoides,marine_finfish,1
+Phycis phycis,marine_finfish,1
+Plectorhinchus,marine_finfish,1
+Plectorhinchus mediterraneus,marine_finfish,1
+Pteriomorphia,inv,0
+Raja asterias,marine_finfish,1
+Raja brachyura,marine_finfish,1
+Raja montagui,marine_finfish,1
+Raja undulata,marine_finfish,1
+Rostroraja alba,marine_finfish,0
+Ruditapes decussatus,inv,0
+Ruvettus pretiosus,marine_finfish,1
+Sciaena umbra,marine_finfish,1
+Sciaenidae,marine_finfish,1
+Scomberesox saurus,marine_finfish,1
+Scomberomorus,marine_finfish,1
+Scombroidea,marine_finfish,0
+Scophthalmidae,marine_finfish,1
+Scorpaena,marine_finfish,1
+Scorpaena porcus,marine_finfish,1
+Scyliorhinus,marine_finfish,1
+Scyliorhinus stellaris,marine_finfish,1
+Scyllaridae,inv,0
+Scyllarides latus,inv,0
+Sepia,inv,0
+Sepiidae,inv,0
+Serranus cabrilla,marine_finfish,1
+Sphyraena,marine_finfish,1
+Sphyraenidae,marine_finfish,1
+Sphyrna,marine_finfish,1
+Sphyrna lewini,marine_finfish,1
+Sphyrna mokarran,marine_finfish,0
+Sphyrna zygaena,marine_finfish,1
+Sphyrnidae,marine_finfish,1
+Squatina squatina,marine_finfish,1
+Squillidae,inv,0
+Torpedinidae,marine_finfish,1
+Trachinidae,marine_finfish,1
+Trachinus,marine_finfish,1
+Trachurus picturatus,marine_finfish,1
+Triakidae,marine_finfish,1
+Trichiuridae,marine_finfish,1
+Trichiurus lepturus,marine_finfish,1
+Trigla lyra,marine_finfish,1
+Trisopterus luscus,marine_finfish,1
+Umbrina canariensis,marine_finfish,1
+Veneridae,inv,0
+Zeidae,marine_finfish,1
+Abudefduf,marine_finfish,1
+Acanthuridae,marine_finfish,1
+Acanthurus,marine_finfish,1
+Acanthurus lineatus,marine_finfish,1
+Acanthurus triostegus,marine_finfish,1
+Acanthurus xanthopterus,marine_finfish,1
+Aetobatus narinari,marine_finfish,1
+Alepisaurus ferox,marine_finfish,1
+Aphareus furca,marine_finfish,1
+Aphareus rutilans,marine_finfish,1
+Aprion virescens,marine_finfish,1
+Bothus mancus,marine_finfish,1
+Carangoides coeruleopinnatus,marine_finfish,1
+Caranx,marine_finfish,1
+Caranx ignobilis,marine_finfish,1
+Caranx lugubris,marine_finfish,1
+Caranx melampygus,marine_finfish,1
+Caranx sexfasciatus,marine_finfish,1
+Carcharhinus falciformis,marine_finfish,1
+Carcharhinus galapagensis,marine_finfish,1
+Carcharhinus melanopterus,marine_finfish,1
+Cephalopholis argus,marine_finfish,1
+Cephalopholis sonnerati,marine_finfish,1
+Cephalopholis urodeta,marine_finfish,1
+Chaetodontidae,marine_finfish,1
+Chanos chanos,marine_finfish,1
+Cheilinus,marine_finfish,1
+Cirrhitus pinnulatus,marine_finfish,1
+Cnidaria,inv,0
+Ctenochaetus striatus,marine_finfish,1
+Decapterus macarellus,marine_finfish,1
+Diodon,marine_finfish,1
+Diodon hystrix,marine_finfish,1
+Echinodermata,inv,0
+Echinoidea,inv,0
+Echinozoa,inv,0
+Elagatis bipinnulata,marine_finfish,1
+Epinephelus fasciatus,marine_finfish,1
+Epinephelus hexagonatus,marine_finfish,1
+Epinephelus lanceolatus,marine_finfish,1
+Epinephelus polyphekadion,marine_finfish,1
+Etelis,marine_finfish,1
+Etelis carbunculus,marine_finfish,1
+Etelis coruscans,marine_finfish,1
+Exocoetidae,marine_finfish,1
+Gerreidae,marine_finfish,1
+Gerres,marine_finfish,1
+Gnathodentex aureolineatus,marine_finfish,1
+Gymnothorax,marine_finfish,1
+Hemiramphidae,marine_finfish,1
+Holocentridae,marine_finfish,1
+Istiompax indica,marine_finfish,1
+Isurus,marine_finfish,1
+Kajikia audax,marine_finfish,1
+Kuhlia mugil,marine_finfish,1
+Kyphosidae,marine_finfish,1
+Kyphosus cinerascens,marine_finfish,1
+Lampris,marine_finfish,1
+Leiognathidae,marine_finfish,1
+Lepidocybium flavobrunneum,marine_finfish,1
+Lethrinidae,marine_finfish,1
+Lethrinus amboinensis,marine_finfish,1
+Lethrinus olivaceus,marine_finfish,1
+Lethrinus rubrioperculatus,marine_finfish,1
+Lutjanidae,marine_finfish,1
+Lutjanus,marine_finfish,1
+Lutjanus bohar,marine_finfish,1
+Lutjanus fulvus,marine_finfish,1
+Lutjanus gibbus,marine_finfish,1
+Lutjanus kasmira,marine_finfish,1
+Lutjanus malabaricus,marine_finfish,1
+Lutjanus monostigma,marine_finfish,1
+Macolor niger,marine_finfish,1
+Makaira mazara,marine_finfish,1
+Monacanthidae,marine_finfish,1
+Monotaxis grandoculis,marine_finfish,1
+Mulloidichthys flavolineatus,marine_finfish,1
+Myripristis,marine_finfish,1
+Naso,marine_finfish,1
+Naso lituratus,marine_finfish,1
+Naso unicornis,marine_finfish,1
+Panulirus,inv,0
+Panulirus penicillatus,inv,0
+Panulirus versicolor,inv,0
+Paracaesio kusakarii,marine_finfish,1
+Paracaesio stonei,marine_finfish,1
+Parribacus caledonicus,inv,0
+Pempheridae,marine_finfish,1
+Plectorhinchus vittatus,marine_finfish,1
+Plotosus lineatus,marine_finfish,1
+Pomacentridae,marine_finfish,1
+Pristipomoides,marine_finfish,1
+Pristipomoides argyrogrammicus,marine_finfish,1
+Pristipomoides auricilla,marine_finfish,1
+Pristipomoides filamentosus,marine_finfish,1
+Pristipomoides flavipinnis,marine_finfish,1
+Pristipomoides multidens,marine_finfish,1
+Pristipomoides zonatus,marine_finfish,1
+Sargocentron spiniferum,marine_finfish,1
+Scaridae,marine_finfish,1
+Scarus,marine_finfish,1
+Scarus ghobban,marine_finfish,1
+Scomberoides lysan,marine_finfish,1
+Scylla serrata,inv,0
+Selar crumenophthalmus,marine_finfish,1
+Siganidae,marine_finfish,1
+Siganus,marine_finfish,1
+Siganus spinus,marine_finfish,1
+Sphyraena barracuda,marine_finfish,1
+Symphorichthys spilurus,marine_finfish,1
+Taractichthys steindachneri,marine_finfish,1
+Terapon jarbua,marine_finfish,1
+Tetrapturus angustirostris,marine_finfish,1
+Thunnus alalunga,marine_finfish,1
+Thunnus albacares,marine_finfish,1
+Thunnus obesus,marine_finfish,1
+Thunnus orientalis,marine_finfish,1
+Tridacna gigas,inv,0
+Tridacna maxima,inv,0
+Tridacna squamosa,inv,0
+Upeneus taeniopterus,marine_finfish,1
+Variola louti,marine_finfish,1
+Anchoviella,marine_finfish,0
+Anodontostoma chacunda,marine_finfish,1
+Ariidae,marine_finfish,1
+Batoidea,marine_finfish,0
+Bohadschia marmorata,inv,0
+Bregmaceros mcclellandi,marine_finfish,1
+Carcharhinus albimarginatus,marine_finfish,1
+Carcharhinus amblyrhynchos,marine_finfish,1
+Carcharhinus obscurus,marine_finfish,1
+Carcharhinus sorrah,marine_finfish,1
+Chirocentrus,marine_finfish,1
+Chirocentrus dorab,marine_finfish,1
+Decapterus russelli,marine_finfish,1
+Dussumieria,marine_finfish,1
+Euthynnus affinis,marine_finfish,1
+Fenneropenaeus merguiensis,inv,0
+Haemulidae,marine_finfish,1
+Hemiramphus,marine_finfish,1
+Hilsa kelee,marine_finfish,1
+Holothuria atra,inv,0
+Holothuria edulis,inv,0
+Holothuriidae,inv,0
+Istiophorus platypterus,marine_finfish,1
+Lactarius lactarius,marine_finfish,1
+Lambis lambis,inv,0
+Lates calcarifer,marine_finfish,1
+Latidae,marine_finfish,1
+Makaira,marine_finfish,1
+Marine groundfishes not identified,marine_finfish,0
+Megalaspis cordyla,marine_finfish,1
+Melicertus latisulcatus,inv,0
+Mene maculata,marine_finfish,1
+Metapenaeus,inv,0
+Modiolus,inv,0
+Mugil,marine_finfish,1
+Muraenesocidae,marine_finfish,1
+Nemipteridae,marine_finfish,1
+Netuma thalassina,marine_finfish,1
+Pampus argenteus,marine_finfish,1
+Parastromateus niger,marine_finfish,1
+Pellona ditchela,marine_finfish,1
+Penaeus,inv,0
+Penaeus monodon,inv,0
+Penaeus semisulcatus,inv,0
+Perna viridis,inv,0
+Platycephalidae,marine_finfish,1
+Polynemidae,marine_finfish,1
+Pomadasys argenteus,marine_finfish,1
+Portunidae,inv,0
+Portunus pelagicus,inv,0
+Priacanthus,marine_finfish,1
+Psettodes erumei,marine_finfish,1
+Rastrelliger brachysoma,marine_finfish,1
+Rastrelliger kanagurta,marine_finfish,1
+Saccostrea cuccullata,inv,0
+Sarda orientalis,marine_finfish,1
+Sardinella lemuru,marine_finfish,1
+Saurida,marine_finfish,1
+Scomberomorus commerson,marine_finfish,1
+Scomberomorus guttatus,marine_finfish,1
+Scyphozoa,inv,0
+Sepioteuthis lessoniana,inv,0
+Sergestidae,inv,0
+Seriolina nigrofasciata,marine_finfish,1
+Sillago,marine_finfish,1
+Siluriformes,marine_finfish,1
+Sphyraena jello,marine_finfish,1
+Stromateidae,marine_finfish,1
+Synodontidae,marine_finfish,1
+Tegillarca granosa,inv,0
+Thenus orientalis,inv,0
+Thryssa,marine_finfish,1
+Thunnus tonggol,marine_finfish,1
+Tridacna,inv,0
+Trochus,inv,0
+Trochus niloticus,inv,0
+Antimora rostrata,marine_finfish,1
+Aristeus varidens,inv,0
+Berycidae,marine_finfish,1
+Brachydeuterus auritus,marine_finfish,1
+Brotula barbata,marine_finfish,1
+Caranx hippos,marine_finfish,1
+Caranx rhonchus,marine_finfish,1
+Carcharias taurus,marine_finfish,1
+Centrolophidae,marine_finfish,1
+Centroscyllium fabricii,marine_finfish,1
+Chaceon maritae,inv,0
+Chelidonichthys capensis,marine_finfish,1
+Chloroscombrus chrysurus,marine_finfish,1
+Deania calcea,marine_finfish,1
+Decapterus,marine_finfish,1
+Dentex angolensis,marine_finfish,1
+Emmelichthys nitidus nitidus,marine_finfish,1
+Ethmalosa fimbriata,marine_finfish,1
+Farfantepenaeus notialis,inv,0
+Galeichthys feliceps,marine_finfish,1
+Galeoides decadactylus,marine_finfish,1
+Gempylidae,marine_finfish,1
+Ginglymostoma cirratum,marine_finfish,1
+Hoplostethus atlanticus,marine_finfish,1
+Ilisha africana,marine_finfish,1
+Istiophorus albicans,marine_finfish,1
+Isurus paucus,marine_finfish,1
+Lithognathus,marine_finfish,1
+Loligo vulgaris,inv,0
+Lophius vomerinus,marine_finfish,1
+Makaira nigricans,marine_finfish,1
+Malacostraca,inv,0
+Merluccius,marine_finfish,1
+Merluccius capensis,marine_finfish,1
+Merluccius polli,marine_finfish,1
+Ophidiidae,marine_finfish,1
+Pagellus bellottii,marine_finfish,1
+Parapenaeopsis atlantica,inv,0
+Pentanemus quinquarius,marine_finfish,1
+Plesiopenaeus edwardsianus,inv,0
+Polydactylus quadrifilis,marine_finfish,1
+Pomadasys,marine_finfish,1
+Pomadasys incisus,marine_finfish,1
+Pomadasys jubelini,marine_finfish,1
+Pseudotolithus,marine_finfish,1
+Pseudotolithus elongatus,marine_finfish,1
+Pseudupeneus prayensis,marine_finfish,1
+Pterogymnus laniarius,marine_finfish,1
+Pteroscion peli,marine_finfish,1
+Nemoossis belloci,marine_finfish,1
+Rachycentron canadum,marine_finfish,1
+Raja miraletus,marine_finfish,1
+Sardinella maderensis,marine_finfish,1
+Sardinops sagax,marine_finfish,1
+Schedophilus pemarco,marine_finfish,1
+Scomberomorus tritor,marine_finfish,1
+Scorpaeniformes,marine_finfish,1
+Selene dorsalis,marine_finfish,1
+Sepiida,inv,0
+Seriola,marine_finfish,1
+Seriola lalandi,marine_finfish,1
+Stromateus fiatola,marine_finfish,1
+Tetrapturus pfluegeri,marine_finfish,1
+Trachinotus,marine_finfish,1
+Trachurus capensis,marine_finfish,1
+Trachurus trecae,marine_finfish,1
+Trichiurus,marine_finfish,1
+Calamus,marine_finfish,1
+Caranx crysos,marine_finfish,1
+Epinephelus adscensionis,marine_finfish,1
+Epinephelus guttatus,marine_finfish,1
+Epinephelus morio,marine_finfish,1
+Epinephelus striatus,marine_finfish,1
+Etelis oculatus,marine_finfish,1
+Holocentrus adscensionis,marine_finfish,1
+Lobatus gigas,inv,0
+Lutjanus campechanus,marine_finfish,1
+Lutjanus synagris,marine_finfish,1
+Lutjanus vivanus,marine_finfish,1
+Ocyurus chrysurus,marine_finfish,1
+Panulirus argus,inv,0
+Pristipomoides macrophthalmus,marine_finfish,1
+Rhomboplites aurorubens,marine_finfish,1
+Scomberomorus cavalla,marine_finfish,1
+Scomberomorus regalis,marine_finfish,1
+Thunnus atlanticus,marine_finfish,1
+Uraspis secunda,marine_finfish,1
+Albula vulpes,marine_finfish,1
+Archosargus rhomboidalis,marine_finfish,1
+Calamus bajonado,marine_finfish,1
+Calamus calamus,marine_finfish,1
+Cantherhines,marine_finfish,1
+Canthidermis sufflamen,marine_finfish,1
+Caranx latus,marine_finfish,1
+Caranx ruber,marine_finfish,1
+Carpilius corallinus,inv,0
+Centropomus undecimalis,marine_finfish,1
+Cephalopholis cruentata,marine_finfish,1
+Cephalopholis fulva,marine_finfish,1
+Chaetodipterus faber,marine_finfish,1
+Decapterus punctatus,marine_finfish,1
+Echeneidae,marine_finfish,1
+Gymnothorax moringa,marine_finfish,1
+Heteropriacanthus cruentatus,marine_finfish,1
+Kyphosus,marine_finfish,1
+Kyphosus sectatrix,marine_finfish,1
+Lachnolaimus maximus,marine_finfish,1
+Lopholatilus chamaeleonticeps,marine_finfish,1
+Lutjanus analis,marine_finfish,1
+Lutjanus apodus,marine_finfish,1
+Lutjanus griseus,marine_finfish,1
+Lutjanus jocu,marine_finfish,1
+Lutjanus purpureus,marine_finfish,1
+Megalops atlanticus,marine_finfish,1
+Mulloidichthys martinicus,marine_finfish,1
+Mycteroperca,marine_finfish,1
+Mycteroperca bonaci,marine_finfish,1
+Mycteroperca tigris,marine_finfish,1
+Mycteroperca venenosa,marine_finfish,1
+Myripristis jacobus,marine_finfish,1
+Ostraciidae,marine_finfish,1
+Paranthias furcifer,marine_finfish,1
+Selene vomer,marine_finfish,1
+Sparisoma viride,marine_finfish,1
+Trachinotus goodei,marine_finfish,1
+Tylosurus crocodilus,marine_finfish,1
+Acanthistius brasilianus,marine_finfish,1
+Anchoa hepsetus,marine_finfish,1
+Artemesia longinaris,inv,0
+Atlantoraja castelnaui,marine_finfish,0
+Atlantoraja cyclophora,marine_finfish,0
+Aulacomya ater,inv,0
+Bathyraja brachyurops,marine_finfish,1
+Bathyraja macloviana,marine_finfish,1
+Bathyraja meridionalis,marine_finfish,0
+Brama australis,marine_finfish,1
+Brevoortia aurea,marine_finfish,1
+Brevoortia pectinata,marine_finfish,1
+Chaceon notialis,inv,0
+Concholepas concholepas,inv,0
+Conger orbignianus,marine_finfish,1
+Cynoscion guatucupa,marine_finfish,1
+Cynoscion striatus,marine_finfish,1
+Diplodus argenteus,marine_finfish,1
+Dissostichus eleginoides,marine_finfish,1
+Doryteuthis gahi,inv,0
+Eleginops maclovinus,marine_finfish,1
+Engraulis anchoita,marine_finfish,1
+Farfantepenaeus paulensis,inv,0
+Genypterus,marine_finfish,1
+Genypterus blacodes,marine_finfish,1
+Illex argentinus,inv,0
+Lithodes,inv,0
+Lithodes antarcticus,inv,0
+Lithodidae,inv,0
+Macrodon ancylodon,marine_finfish,1
+Macrourus,marine_finfish,1
+Macrourus carinatus,marine_finfish,1
+Macruronus magellanicus,marine_finfish,1
+Martialia hyadesi,inv,0
+Menticirrhus,marine_finfish,1
+Menticirrhus americanus,marine_finfish,1
+Merluccius australis,marine_finfish,1
+Merluccius hubbsi,marine_finfish,1
+Micromesistius australis,marine_finfish,1
+Micropogonias furnieri,marine_finfish,1
+Mulinia,inv,0
+Mustelus schmitti,marine_finfish,1
+Mytilus chilensis,inv,0
+Mytilus platensis,inv,0
+Nemadactylus,marine_finfish,1
+Nemadactylus bergi,marine_finfish,1
+Notorynchus cepedianus,marine_finfish,1
+Nototheniidae,marine_finfish,1
+Paralomis,inv,0
+Paralomis granulosa,inv,0
+Parona signata,marine_finfish,1
+Patagonotothen brevicauda brevicauda,marine_finfish,1
+Patagonotothen ramsayi,marine_finfish,1
+Peprilus paru,marine_finfish,1
+Percophis brasiliensis,marine_finfish,1
+Pinguipes brasilianus,marine_finfish,1
+Pleoticus muelleri,inv,0
+Pogonias cromis,marine_finfish,1
+Pseudocyttus maculatus,marine_finfish,1
+Pseudopercis semifasciata,marine_finfish,1
+Pseudobatos percellens,marine_finfish,1
+Rioraja agassizii,marine_finfish,0
+Salilota australis,marine_finfish,1
+Sebastes oculatus,marine_finfish,1
+Seriolella,marine_finfish,1
+Seriolella caerulea,marine_finfish,1
+Sprattus fuegensis,marine_finfish,1
+Squatina argentina,marine_finfish,1
+Stromateus brasiliensis,marine_finfish,1
+Sympterygia acuta,marine_finfish,0
+Sympterygia bonapartii,marine_finfish,0
+Thunnus maccoyii,marine_finfish,1
+Thyrsites atun,marine_finfish,1
+Tonna galea,inv,0
+Trachurus lathami,marine_finfish,1
+Umbrina canosai,marine_finfish,1
+Urophycis brasiliensis,marine_finfish,1
+Zearaja chilensis,marine_finfish,1
+Zidona dufresnei,inv,0
+Zygochlamys patagonica,inv,0
+Albulidae,marine_finfish,1
+Alectis ciliaris,marine_finfish,1
+Arca,marine_finfish,0
+Arcidae,inv,0
+Batrachoididae,marine_finfish,1
+Beryx,marine_finfish,1
+Callinectes,inv,0
+Callinectes sapidus,inv,0
+Carcharhinus leucas,marine_finfish,1
+Centropomidae,marine_finfish,1
+Centropomus,marine_finfish,1
+Cetengraulis edentulus,marine_finfish,1
+Crassostrea rhizophorae,inv,0
+Cynoglossidae,marine_finfish,1
+Cynoscion,marine_finfish,1
+Diapterus rhombeus,marine_finfish,1
+Diodontidae,marine_finfish,1
+Diplectrum formosum,marine_finfish,1
+Ephippidae,marine_finfish,1
+Haemulon steindachneri,marine_finfish,1
+Larimus breviceps,marine_finfish,1
+Lobotes surinamensis,marine_finfish,1
+Mugil liza,marine_finfish,1
+Mycteroperca acutirostris,marine_finfish,1
+Mytilidae,inv,0
+Negaprion brevirostris,marine_finfish,1
+Opisthonema oglinum,marine_finfish,1
+Pectinidae,inv,0
+Porichthys plectrodon,marine_finfish,1
+Priacanthidae,marine_finfish,1
+Priacanthus arenatus,marine_finfish,1
+Rachycentridae,marine_finfish,1
+Scomberomorus brasiliensis,marine_finfish,1
+Selene setapinnis,marine_finfish,1
+Seriola zonata,marine_finfish,1
+Tetraodontidae,marine_finfish,1
+Tivela mactroides,inv,0
+Xiphiidae,marine_finfish,1
+Xiphopenaeus kroyeri,inv,0
+Ablennes hians,marine_finfish,1
+Abudefduf vaigiensis,marine_finfish,1
+Acetes,inv,0
+Allocyttus niger,marine_finfish,1
+Apogonidae,marine_finfish,1
+Argyrops spinifer,marine_finfish,1
+Arripis georgianus,marine_finfish,1
+Arripis trutta,marine_finfish,1
+Atractoscion aequidens,marine_finfish,1
+Atule mate,marine_finfish,1
+Beryx decadactylus,marine_finfish,1
+Beryx splendens,marine_finfish,1
+Bramidae,marine_finfish,1
+Caesio,marine_finfish,1
+Caesionidae,marine_finfish,1
+Callorhinchus milii,marine_finfish,1
+Carangoides fulvoguttatus,marine_finfish,1
+Carangoides orthogrammus,marine_finfish,1
+Centriscidae,marine_finfish,1
+Centroberyx affinis,marine_finfish,1
+Cephalopholis,marine_finfish,1
+Cephalopholis boenak,marine_finfish,1
+Cephalopholis miniata,marine_finfish,1
+Charybdis,inv,0
+Cheilinus trilobatus,marine_finfish,1
+Chelidonichthys kumu,marine_finfish,1
+Chimaeriformes,marine_finfish,1
+Cookeolus japonicus,marine_finfish,1
+Crassostrea,inv,0
+Cromileptes altivelis,marine_finfish,1
+Cyttus novaezealandiae,marine_finfish,1
+Cyttus traversi,marine_finfish,1
+Drepane,marine_finfish,1
+Drepane punctata,marine_finfish,1
+Eleutheronema tetradactylum,marine_finfish,1
+Ellochelon vaigiensis,marine_finfish,1
+Epinephelus coioides,marine_finfish,1
+Epinephelus fuscoguttatus,marine_finfish,1
+Epinephelus maculatus,marine_finfish,1
+Epinephelus malabaricus,marine_finfish,1
+Epinephelus merra,marine_finfish,1
+Epinephelus morrhua,marine_finfish,1
+Epinephelus multinotatus,marine_finfish,1
+Epinephelus tauvina,marine_finfish,1
+Etmopterus,marine_finfish,1
+Fenneropenaeus indicus,inv,0
+Geryon,inv,0
+Girella tricuspidata,marine_finfish,1
+Gnathanodon speciosus,marine_finfish,1
+Gymnocranius,marine_finfish,1
+Gymnocranius grandoculis,marine_finfish,1
+Gymnosarda unicolor,marine_finfish,1
+Halargyreus johnsonii,marine_finfish,1
+Haliotidae,inv,0
+Haliotis,inv,0
+Haliotis rubra,inv,0
+Haliporoides sibogae,inv,0
+Hydrolagus,marine_finfish,1
+Hyperoglyphe antarctica,marine_finfish,1
+Hyporhamphus,marine_finfish,1
+Jasus edwardsii,inv,0
+Lamniformes,marine_finfish,1
+Latridae,marine_finfish,1
+Leiognathus,marine_finfish,1
+Lepidoperca pulchella,marine_finfish,1
+Lepidorhynchus denticulatus,marine_finfish,1
+Lethrinus,marine_finfish,1
+Lethrinus atkinsoni,marine_finfish,1
+Lethrinus lentjan,marine_finfish,1
+Lethrinus miniatus,marine_finfish,1
+Lethrinus nebulosus,marine_finfish,1
+Lutjanus argentimaculatus,marine_finfish,1
+Lutjanus erythropterus,marine_finfish,1
+Lutjanus johnii,marine_finfish,1
+Lutjanus russellii,marine_finfish,1
+Macruronus novaezelandiae,marine_finfish,1
+Mobula birostris,marine_finfish,1
+Megalops cyprinoides,marine_finfish,1
+Metapenaeus endeavouri,inv,0
+Monodactylus argenteus,marine_finfish,1
+Crenimugil seheli,marine_finfish,1
+Mora moro,marine_finfish,1
+Myctophidae,marine_finfish,1
+Nebrius ferrugineus,marine_finfish,1
+Nemadactylus macropterus,marine_finfish,1
+Nemipterus,marine_finfish,1
+Neocyttus rhomboidalis,marine_finfish,1
+Neritidae,inv,0
+Odonus niger,marine_finfish,1
+Ommastrephidae,inv,0
+Oreosomatidae,marine_finfish,1
+Ostreidae,inv,0
+Pagrus auratus,marine_finfish,1
+Panulirus cygnus,inv,0
+Panulirus longipes,inv,0
+Paracaesio xanthura,marine_finfish,1
+Paristiopterus labiosus,marine_finfish,1
+Parupeneus,marine_finfish,1
+Pelates quadrilineatus,marine_finfish,1
+Pentaceros decacanthus,marine_finfish,1
+Pinctada,inv,0
+Pinna bicolor,inv,0
+Plagiogeneion rubiginosum,marine_finfish,1
+Plectorhinchus gibbosus,marine_finfish,1
+Plectropomus laevis,marine_finfish,1
+Plotosus,marine_finfish,1
+Polyprion oxygeneios,marine_finfish,1
+Portunus,inv,0
+Portunus sanguinolentus,inv,0
+Pristidae,marine_finfish,0
+Pristiophorus,marine_finfish,0
+Pseudocaranx dentex,marine_finfish,1
+Pentaceros richardsoni,marine_finfish,1
+Pseudophycis bachus,marine_finfish,1
+Pterygotrigla polyommata,marine_finfish,1
+Ranina ranina,inv,0
+Rastrelliger,marine_finfish,1
+Regalecus glesne,marine_finfish,1
+Rexea solandri,marine_finfish,1
+Rhabdosargus sarba,marine_finfish,1
+Rhombosolea,marine_finfish,1
+Sagmariasus verreauxi,inv,0
+Scatophagus,marine_finfish,1
+Scomber australasicus,marine_finfish,1
+Scomberoides,marine_finfish,1
+Scomberoides commersonnianus,marine_finfish,1
+Scomberomorus semifasciatus,marine_finfish,1
+Scylla,inv,0
+Seriolella brama,marine_finfish,1
+Seriolella punctata,marine_finfish,1
+Sillaginidae,marine_finfish,1
+Sphyraena novaehollandiae,marine_finfish,1
+Spratelloides,marine_finfish,1
+Stichopus,inv,0
+Stolephorus,marine_finfish,1
+Terapon,marine_finfish,1
+Terapontidae,marine_finfish,1
+Trachichthyidae,marine_finfish,1
+Trachurus declivis,marine_finfish,1
+Tridacnidae,inv,0
+Upeneus,marine_finfish,1
+Upeneus vittatus,marine_finfish,1
+Uranoscopus,marine_finfish,1
+Wattsia mossambica,marine_finfish,1
+Zenopsis nebulosa,marine_finfish,1
+Similiparma lurida,marine_finfish,1
+Alepocephalus rostratus,marine_finfish,1
+Anthias anthias,marine_finfish,1
+Aphanopus carbo,marine_finfish,1
+Bodianus scrofa,marine_finfish,1
+Caproidae,marine_finfish,1
+Centroscymnus crepidater,marine_finfish,1
+Chaceon affinis,inv,0
+Crassostrea gigas,inv,0
+Etmopterus princeps,marine_finfish,1
+Gaidropsarus,marine_finfish,1
+Gymnothorax unicolor,marine_finfish,1
+Haliotis tuberculata,inv,0
+Labrus bergylta,marine_finfish,1
+Leucoraja fullonica,marine_finfish,1
+Ommastrephes bartramii,inv,0
+Patella,inv,0
+Pecten maximus,inv,0
+Polymixia nobilis,marine_finfish,1
+Pontinus kuhlii,marine_finfish,1
+Promethichthys prometheus,marine_finfish,1
+Scymnodon ringens,marine_finfish,0
+Solen,inv,0
+Sparisoma cretense,marine_finfish,1
+Sphoeroides marmoratus,marine_finfish,1
+Thalassoma pavo,marine_finfish,1
+Trachyscorpia cristulata echinata,marine_finfish,1
+Zenopsis conchifer,marine_finfish,1
+Alosa aestivalis,marine_finfish,1
+Alosa sapidissima,marine_finfish,1
+Anchoa mitchilli,marine_finfish,1
+Argopecten irradians,inv,0
+Brevoortia tyrannus,marine_finfish,1
+Busycon,inv,0
+Cardisoma guanhumi,inv,0
+Conger oceanicus,marine_finfish,1
+Crassostrea virginica,inv,0
+Dorosoma,marine_finfish,1
+Dorosoma cepedianum,marine_finfish,1
+Etrumeus sadina,marine_finfish,1
+Eucinostomus,marine_finfish,1
+Farfantepenaeus duorarum,inv,0
+Fistulariidae,marine_finfish,1
+Haemulon,marine_finfish,1
+Haemulon sciurus,marine_finfish,1
+Harengula,marine_finfish,1
+Hemiramphus brasiliensis,marine_finfish,1
+Hippocampus,marine_finfish,1
+Holothuroidea,inv,0
+Hyporthodus mystacinus,marine_finfish,1
+Hyporthodus niveatus,marine_finfish,1
+Illex illecebrosus,inv,0
+Lagocephalus laevigatus,marine_finfish,1
+Lepophidium brevibarbe,marine_finfish,1
+Lunarca ovalis,inv,0
+Mactridae,inv,0
+Menippe mercenaria,inv,0
+Mercenaria mercenaria,inv,0
+Merluccius bilinearis,marine_finfish,1
+Ogcocephalus,marine_finfish,1
+Orthopristis chrysoptera,marine_finfish,1
+Petromyzon marinus,marine_finfish,1
+Pleoticus robustus,inv,0
+Prionotus,marine_finfish,1
+Sciaenops ocellatus,marine_finfish,1
+Scomberomorus maculatus,marine_finfish,1
+Sphyraena guachancho,marine_finfish,1
+Stenotomus chrysops,marine_finfish,1
+Stomolophus,inv,0
+Acanthopagrus berda,marine_finfish,1
+Acanthopagrus bifasciatus,marine_finfish,1
+Aethaloperca rogaa,marine_finfish,1
+Alepes djedaba,marine_finfish,1
+Aluterus,marine_finfish,1
+Ariomma indicum,marine_finfish,1
+Bolbometopon muricatum,marine_finfish,1
+Bothus pantherinus,marine_finfish,1
+Carangoides,marine_finfish,1
+Carangoides malabaricus,marine_finfish,1
+Carcharhinus dussumieri,marine_finfish,0
+Cephalopholis hemistiktos,marine_finfish,1
+Cheimerius nufar,marine_finfish,1
+Chirocentrus nudus,marine_finfish,1
+Crenidens crenidens,marine_finfish,1
+Diagramma pictum,marine_finfish,1
+Dussumieria acuta,marine_finfish,1
+Epinephelus areolatus,marine_finfish,1
+Epinephelus chlorostigma,marine_finfish,1
+Epinephelus polylepis,marine_finfish,1
+Gerres longirostris,marine_finfish,1
+Gerres oyena,marine_finfish,1
+Grammoplites suppositus,marine_finfish,1
+Hemiramphus archipelagicus,marine_finfish,1
+Inermiidae,marine_finfish,0
+Lethrinus borbonicus,marine_finfish,1
+Lethrinus harak,marine_finfish,1
+Lethrinus microdon,marine_finfish,1
+Lethrinus obsoletus,marine_finfish,1
+Lutjanus quinquelineatus,marine_finfish,1
+Nematalosa nasus,marine_finfish,1
+Nemipterus randalli,marine_finfish,1
+Otolithes ruber,marine_finfish,1
+Platycephalus indicus,marine_finfish,1
+Plectorhinchus gaterinus,marine_finfish,1
+Plectorhinchus pictus,marine_finfish,1
+Plectorhinchus schotaf,marine_finfish,1
+Plectropomus areolatus,marine_finfish,1
+Plectropomus pessuliferus,marine_finfish,1
+Pomacanthus maculosus,marine_finfish,1
+Pomadasys kaakan,marine_finfish,1
+Rhabdosargus haffara,marine_finfish,1
+Rhinobatidae,marine_finfish,1
+Rhynchobatus djiddensis,marine_finfish,1
+Saurida tumbil,marine_finfish,1
+Scolopsis taeniata,marine_finfish,1
+Scomberoides tol,marine_finfish,1
+Sillago sihama,marine_finfish,1
+Sparidentex hasta,marine_finfish,1
+Sphyraena putnamae,marine_finfish,1
+Synanceiidae,marine_finfish,1
+Tenualosa ilisha,marine_finfish,1
+Upeneus sulphureus,marine_finfish,1
+Coris julis,marine_finfish,1
+Dicentrarchus punctatus,marine_finfish,1
+Labrus merula,marine_finfish,1
+Merlangius merlangus,marine_finfish,1
+Merluccius merluccius,marine_finfish,1
+Trisopterus minutus,marine_finfish,1
+Uranoscopus scaber,marine_finfish,1
+Venus verrucosa,inv,0
+Harpadon nehereus,marine_finfish,1
+Marsupenaeus japonicus,inv,0
+Metapenaeus monoceros,inv,0
+Muraenesox,marine_finfish,1
+Muraenesox cinereus,marine_finfish,1
+Nemipterus japonicus,marine_finfish,1
+Pampus chinensis,marine_finfish,1
+Panulirus polyphagus,inv,0
+Rhizoprionodon acutus,marine_finfish,0
+Sardinella fimbriata,marine_finfish,1
+Scomberomorus lineolatus,marine_finfish,1
+Selaroides leptolepis,marine_finfish,1
+Tenualosa toli,marine_finfish,1
+Thryssa baelama,marine_finfish,1
+Zenarchopterus dispar,marine_finfish,1
+Istiophorus,marine_finfish,1
+Sardinella brasiliensis,marine_finfish,1
+Acipenseridae,marine_finfish,1
+Ammodytidae,marine_finfish,1
+Anarhichadidae,marine_finfish,1
+Anarhichas,marine_finfish,1
+Anarhichas lupus,marine_finfish,1
+Asterias rubens,inv,0
+Atherina presbyter,marine_finfish,1
+Brachyura,inv,0
+Buccinidae,inv,0
+Buccinum undatum,inv,0
+Cancer pagurus,inv,0
+Carcinus maenas,inv,0
+Cerastoderma edule,inv,0
+Clupea harengus,marine_finfish,1
+Crangonidae,inv,0
+Ensis siliqua,inv,0
+Gadidae,marine_finfish,1
+Gadus morhua,marine_finfish,1
+Glycymeris glycymeris,inv,0
+Hippoglossoides platessoides,marine_finfish,1
+Lepidorhombus,marine_finfish,1
+Limanda limanda,marine_finfish,1
+Littorina,inv,0
+Chelon ramada,marine_finfish,1
+Loligo forbesii,inv,0
+Melanogrammus aeglefinus,marine_finfish,1
+Microchirus,marine_finfish,1
+Microchirus variegatus,marine_finfish,1
+Microstomus kitt,marine_finfish,1
+Mya arenaria,inv,0
+Mytilus edulis,inv,0
+Necora puber,inv,0
+Osmerus eperlanus,marine_finfish,1
+Palinurus,inv,0
+Pandalus,inv,0
+Pandalus borealis,inv,0
+Pandalus montagui,inv,0
+Perca fluviatilis,marine_finfish,1
+Pleuronectes platessa,marine_finfish,1
+Pleuronectidae,marine_finfish,1
+Pollachius pollachius,marine_finfish,1
+Reinhardtius hippoglossoides,marine_finfish,1
+Rutilus rutilus,marine_finfish,1
+Salmo salar,marine_finfish,1
+Salmo trutta,marine_finfish,1
+Sander lucioperca,marine_finfish,1
+Scardinius erythrophthalmus,marine_finfish,1
+Sebastidae,marine_finfish,1
+Chelidonichthys lastoviza,marine_finfish,1
+Zoarces viviparus,marine_finfish,1
+Acanthurus bahianus,marine_finfish,1
+Archosargus probatocephalus,marine_finfish,1
+Conodon nobilis,marine_finfish,1
+Dasyatis,marine_finfish,1
+Epinephelus itajara,marine_finfish,1
+Farfantepenaeus aztecus,inv,0
+Farfantepenaeus brasiliensis,inv,0
+Gerres cinereus,marine_finfish,1
+Haemulon aurolineatum,marine_finfish,1
+Haemulon flavolineatum,marine_finfish,1
+Harengula jaguana,marine_finfish,1
+Holocentrus rufus,marine_finfish,1
+Hyporthodus flavolimbatus,marine_finfish,1
+Joturus pichardi,marine_finfish,1
+Litopenaeus schmitti,inv,0
+Malacanthidae,marine_finfish,1
+Menticirrhus littoralis,marine_finfish,1
+Mugil curema,marine_finfish,1
+Mycteroperca interstitialis,marine_finfish,1
+Mycteroperca microlepis,marine_finfish,1
+Neoniphon marianus,marine_finfish,1
+Octopus maya,inv,0
+Peprilus,marine_finfish,1
+Haemulopsis corvinaeformis,marine_finfish,1
+Rhizoprionodon porosus,marine_finfish,1
+Rhizoprionodon terraenovae,marine_finfish,1
+Sicyonia brevirostris,inv,0
+Sparisoma aurofrenatum,marine_finfish,1
+Sparisoma chrysopterum,marine_finfish,1
+Sparisoma rubripinne,marine_finfish,1
+Alectis alexandrina,marine_finfish,1
+Apsilus fuscus,marine_finfish,1
+Bathygobius soporator,marine_finfish,1
+Centrophorus lusitanicus,marine_finfish,1
+Cyprinidae,marine_finfish,1
+Dentex congoensis,marine_finfish,1
+Dicologlossa cuneata,marine_finfish,1
+Elops lacerta,marine_finfish,1
+Lethrinus atlanticus,marine_finfish,1
+Lophius vaillanti,marine_finfish,1
+Pellonula leonensis,marine_finfish,1
+Psettodes belcheri,marine_finfish,1
+Pseudotolithus senegalensis,marine_finfish,1
+Rhinobatos,marine_finfish,0
+Sarotherodon galilaeus,marine_finfish,1
+Anchoa choerostoma,marine_finfish,1
+Harengula humeralis,marine_finfish,1
+Myliobatis aquila,marine_finfish,1
+Channichthyidae,marine_finfish,1
+Lepidonotothen squamifrons,marine_finfish,1
+Lithodes murrayi,inv,0
+Macrourus whitsoni,marine_finfish,1
+Muraenolepis,marine_finfish,1
+Muraenolepis microps,marine_finfish,1
+Amphiarius phrygiatus,marine_finfish,1
+Anchoa spinifer,marine_finfish,1
+Aspistor quadriscutis,marine_finfish,1
+Bagre bagre,marine_finfish,1
+Bairdiella ronchus,marine_finfish,1
+Callinectes danae,inv,0
+Caulolatilus chrysops,marine_finfish,1
+Ctenosciaena gracilicirrhus,marine_finfish,1
+Cynoscion acoupa,marine_finfish,1
+Cynoscion jamaicensis,marine_finfish,1
+Cynoscion leiarchus,marine_finfish,1
+Cynoscion virescens,marine_finfish,1
+Hypanus guttatus,marine_finfish,0
+Farfantepenaeus subtilis,inv,0
+Fistularia tabacaria,marine_finfish,1
+Genyatremus luteus,marine_finfish,1
+Gymnura altavela,marine_finfish,0
+Gymnura micrura,marine_finfish,0
+Haemulon boschmae,marine_finfish,1
+Harengula clupeola,marine_finfish,1
+Hyperoglyphe,marine_finfish,1
+Isopisthus parvipinnis,marine_finfish,1
+Lophius gastrophysus,marine_finfish,1
+Mullus argentinae,marine_finfish,1
+Nebris microps,marine_finfish,1
+Notarius grandicassis,marine_finfish,1
+Palaemonidae,inv,0
+Paralonchurus brasiliensis,marine_finfish,1
+Pellona harroweri,marine_finfish,1
+Perna perna,inv,0
+Pinguipedidae,marine_finfish,1
+Pitar rostratus,inv,0
+Plagioscion surinamensis,marine_finfish,1
+Porichthys porosissimus,marine_finfish,1
+Sciades couma,marine_finfish,1
+Sciades parkeri,marine_finfish,1
+Sciades proops,marine_finfish,1
+Sphyrna tiburo,marine_finfish,1
+Stellifer rastrifer,marine_finfish,1
+Stephanolepis hispidus,marine_finfish,1
+Thyrsitops lepidopoides,marine_finfish,1
+Trachinotus carolinus,marine_finfish,1
+Trichopsetta caribbaea,marine_finfish,1
+Tylosurus,marine_finfish,1
+Dussumieria elopsoides,marine_finfish,1
+Gazza minuta,marine_finfish,1
+Himantura,marine_finfish,1
+Ilisha elongata,marine_finfish,1
+Paralichthyidae,marine_finfish,1
+Parapenaeopsis,inv,0
+Parapenaeopsis hardwickii,inv,0
+Parapenaeopsis sculptilis,inv,0
+Pennahia,marine_finfish,1
+Psettodidae,marine_finfish,1
+Scatophagus argus,marine_finfish,1
+Solenocera crassicornis,inv,0
+Acipenser gueldenstaedtii,marine_finfish,1
+Acipenser stellatus,marine_finfish,1
+Alosa immaculata,marine_finfish,1
+Belone,marine_finfish,1
+Clupeonella cultriventris,marine_finfish,1
+Huso huso,marine_finfish,1
+Chelon saliens,marine_finfish,1
+Miscellaneous diadromous fishes,marine_finfish,0
+Mytilus,inv,0
+Carpilius convexus,inv,0
+Priacanthus macracanthus,marine_finfish,1
+Sphyraena obtusata,marine_finfish,1
+Centrophorus squamosus,marine_finfish,1
+Panulirus regius,inv,0
+Pseudotolithus typus,marine_finfish,1
+Anarhichas denticulatus,marine_finfish,1
+Boreogadus saida,marine_finfish,1
+Chionoecetes,inv,0
+Chionoecetes opilio,inv,0
+Clupea pallasii pallasii,marine_finfish,1
+Coregonus,marine_finfish,1
+Coregonus autumnalis,marine_finfish,1
+Coregonus nasus,marine_finfish,1
+Coregonus sardinella,marine_finfish,1
+Coryphaenoides,marine_finfish,1
+Coryphaenoides rupestris,marine_finfish,1
+Cottidae,marine_finfish,1
+Cyclopterus lumpus,marine_finfish,1
+Eleginus gracilis,marine_finfish,1
+Gadus macrocephalus,marine_finfish,1
+Glyptocephalus cynoglossus,marine_finfish,1
+Hippoglossus hippoglossus,marine_finfish,1
+Lycodes,marine_finfish,1
+Macrourus berglax,marine_finfish,1
+Mallotus villosus,marine_finfish,1
+Myoxocephalus,marine_finfish,1
+Myoxocephalus quadricornis,marine_finfish,1
+Osmeridae,marine_finfish,1
+Osmerus mordax,marine_finfish,1
+Pollachius virens,marine_finfish,1
+Salmo,marine_finfish,1
+Salvelinus,marine_finfish,1
+Salvelinus alpinus,marine_finfish,1
+Salvelinus malma,marine_finfish,1
+Sebastes,marine_finfish,1
+Sebastes mentella,marine_finfish,1
+Somniosus microcephalus,marine_finfish,0
+Stenodus leucichthys,marine_finfish,1
+Strongylocentrotus,inv,0
+Alepocephalus bairdii,marine_finfish,1
+Alosa mediocris,marine_finfish,1
+Alosa pseudoharengus,marine_finfish,1
+Anarhichas minor,marine_finfish,1
+Anguilla,marine_finfish,1
+Anguilla rostrata,marine_finfish,1
+Arctica islandica,inv,0
+Asteroidea,inv,0
+Brosme brosme,marine_finfish,1
+Cancer borealis,inv,0
+Cancer irroratus,inv,0
+Centropristis striata,marine_finfish,1
+Chlamys islandica,inv,0
+Cynoscion regalis,marine_finfish,1
+Cyprinus carpio,marine_finfish,1
+Bathytoshia centroura,marine_finfish,1
+Dipturus laevis,marine_finfish,1
+Doryteuthis pealeii,inv,0
+Enchelyopus cimbrius,marine_finfish,1
+Ensis directus,inv,0
+Gaidropsarus ensis,marine_finfish,1
+Homarus americanus,inv,0
+Leucoraja erinacea,marine_finfish,1
+Limanda ferruginea,marine_finfish,1
+Littorinidae,inv,0
+Lophius americanus,marine_finfish,1
+Mactromeris polynyma,inv,0
+Menidia menidia,marine_finfish,1
+Microgadus tomcod,marine_finfish,1
+Mola,marine_finfish,1
+Molva molva,marine_finfish,1
+Morone americana,marine_finfish,1
+Morone saxatilis,marine_finfish,1
+Myxinidae,marine_finfish,1
+Naucrates ductor,marine_finfish,1
+Pandalidae,inv,0
+Paralichthys,marine_finfish,1
+Paralichthys dentatus,marine_finfish,1
+Peprilus triacanthus,marine_finfish,1
+Placopecten magellanicus,inv,0
+Pseudopleuronectes americanus,marine_finfish,1
+Salmonidae,marine_finfish,1
+Scophthalmus aquosus,marine_finfish,1
+Sebastes norvegicus,marine_finfish,1
+Sphoeroides maculatus,marine_finfish,1
+Spisula solidissima,inv,0
+Strongylocentrotus droebachiensis,inv,0
+Tautoga onitis,marine_finfish,1
+Tautogolabrus adspersus,marine_finfish,1
+Urophycis chuss,marine_finfish,1
+Urophycis tenuis,marine_finfish,1
+Zoarces americanus,marine_finfish,1
+Ammodytes,marine_finfish,1
+Anoplopoma fimbria,marine_finfish,1
+Atheresthes evermanni,marine_finfish,1
+Atheresthes stomias,marine_finfish,1
+Atractoscion nobilis,marine_finfish,1
+Cancer productus,inv,0
+Citharichthys sordidus,marine_finfish,1
+Clinocardium nuttallii,inv,0
+Doryteuthis opalescens,inv,0
+Engraulis mordax,marine_finfish,1
+Enteroctopus dofleini,inv,0
+Eopsetta jordani,marine_finfish,1
+Erimacrus isenbeckii,inv,0
+Glyptocephalus zachirus,marine_finfish,1
+Hexagrammidae,marine_finfish,1
+Hippoglossoides elassodon,marine_finfish,1
+Hippoglossus stenolepis,marine_finfish,1
+Hydrolagus colliei,marine_finfish,1
+Hypomesus pretiosus,marine_finfish,1
+Lepidopsetta bilineata,marine_finfish,1
+Leukoma staminea,inv,0
+Limanda aspera,marine_finfish,1
+Merluccius productus,marine_finfish,1
+Metacarcinus magister,inv,0
+Microgadus proximus,marine_finfish,1
+Microstomus pacificus,marine_finfish,1
+Mytiloida,inv,0
+Oncorhynchus,marine_finfish,1
+Oncorhynchus gorbuscha,marine_finfish,1
+Oncorhynchus keta,marine_finfish,1
+Oncorhynchus kisutch,marine_finfish,1
+Oncorhynchus mykiss,marine_finfish,1
+Oncorhynchus nerka,marine_finfish,1
+Oncorhynchus tshawytscha,marine_finfish,1
+Ophiodon elongatus,marine_finfish,1
+Ostrea,inv,0
+Pandalus jordani,inv,0
+Panopea abrupta,inv,0
+Paralichthys californicus,marine_finfish,1
+Paralithodes camtschaticus,inv,0
+Parophrys vetulus,marine_finfish,1
+Patinopecten caurinus,inv,0
+Platichthys stellatus,marine_finfish,1
+Pleurogrammus monopterygius,marine_finfish,1
+Pleuronectes quadrituberculatus,marine_finfish,1
+Pleuronichthys decurrens,marine_finfish,1
+Psettichthys melanostictus,marine_finfish,1
+Beringraja stellulata,marine_finfish,0
+Sarda lineolata,marine_finfish,1
+Saxidomus gigantea,inv,0
+Scomber japonicus,marine_finfish,1
+Scorpaenichthys marmoratus,marine_finfish,1
+Sebastes alutus,marine_finfish,1
+Sebastes crameri,marine_finfish,1
+Sebastes entomelas,marine_finfish,1
+Sebastes flavidus,marine_finfish,1
+Sebastes goodei,marine_finfish,1
+Sebastes melanops,marine_finfish,1
+Sebastes paucispinis,marine_finfish,1
+Sebastes pinniger,marine_finfish,1
+Sebastolobus alascanus,marine_finfish,1
+Siliqua patula,inv,0
+Somniosus pacificus,marine_finfish,0
+Thaleichthys pacificus,marine_finfish,1
+Gadus chalcogrammus,marine_finfish,1
+Trachurus symmetricus,marine_finfish,1
+Tresus,inv,0
+Upogebia pugettensis,inv,0
+Aristaeomorpha foliacea,inv,0
+Dentex gibbosus,marine_finfish,1
+Halobatrachus didactylus,marine_finfish,1
+Lepidorhombus whiffiagonis,marine_finfish,1
+Merluccius senegalensis,marine_finfish,1
+Schedophilus ovalis,marine_finfish,1
+Torpedo,marine_finfish,1
+Acanthurus monroviae,marine_finfish,1
+Mycteroperca rubra,marine_finfish,1
+Acanthocybium,marine_finfish,1
+Lethrinus mahsena,marine_finfish,1
+Octopus cyanea,inv,0
+Acipenser sturio,marine_finfish,1
+Asterozoa,inv,0
+Cardium edule,inv,0
+Dosinia,inv,0
+Echinus esculentus,inv,0
+Littorina littorea,inv,0
+Mimachlamys varia,inv,0
+Molva,marine_finfish,1
+Raja microocellata,marine_finfish,1
+Ruditapes,inv,0
+Ruditapes philippinarum,inv,0
+Spisula ovalis,inv,0
+Spisula solida,inv,0
+Tapes rhomboides,inv,0
+Tellina,inv,0
+Tellinidae,inv,0
+Trisopterus esmarkii,marine_finfish,1
+Venerupis corrugata,inv,0
+Aplodactylus punctatus,marine_finfish,1
+Argopecten purpuratus,inv,0
+Cervimunida johni,inv,0
+Cheilodactylus variegatus,marine_finfish,1
+Choromytilus chorus,inv,0
+Cilus gilberti,marine_finfish,1
+Strangomera bentincki,marine_finfish,1
+Coelorinchus chilensis,marine_finfish,1
+Cynoscion analis,marine_finfish,1
+Dosidicus gigas,inv,0
+Engraulis ringens,marine_finfish,1
+Ethmidium maculatum,marine_finfish,1
+Genypterus maculatus,marine_finfish,1
+Haliporoides diomedeae,inv,0
+Heterocarpus reedi,inv,0
+Isacia conceptionis,marine_finfish,1
+Loxechinus albus,inv,0
+Merluccius gayi gayi,marine_finfish,1
+Mesodesma donacium,inv,0
+Normanichthys crockeri,marine_finfish,1
+Odontesthes regia,marine_finfish,1
+Ostrea chilensis,inv,0
+Paralabrax humeralis,marine_finfish,1
+Paralichthys microps,marine_finfish,1
+Pinguipes chilensis,marine_finfish,1
+Pleuroncodes monodon,inv,0
+Prionotus stephanophrys,marine_finfish,1
+Prolatilus jugularis,marine_finfish,1
+Pyura chilensis,inv,0
+Sarda chiliensis,marine_finfish,1
+Scomberomorus sierra,marine_finfish,1
+Semele solida,inv,0
+Tawera gayi,inv,0
+Trachurus murphyi,marine_finfish,1
+Acanthopagrus schlegelii,marine_finfish,1
+Acetes japonicus,inv,0
+Ammodytes personatus,marine_finfish,1
+Anadara,inv,0
+Apostichopus japonicus,inv,0
+Arctoscopus japonicus,marine_finfish,1
+Ascidiacea,inv,0
+Atrobucca nibe,marine_finfish,1
+Bathylagidae,marine_finfish,1
+Carangoides talamparoides,marine_finfish,1
+Cheilopogon unicolor,marine_finfish,1
+Clupanodon thrissa,marine_finfish,1
+Cololabis saira,marine_finfish,1
+Conger myriaster,marine_finfish,1
+Cypselurus,marine_finfish,1
+Hemitrygon akajei,marine_finfish,0
+Decapterus macrosoma,marine_finfish,1
+Decapterus maruadsi,marine_finfish,1
+Encrasicholina heteroloba,marine_finfish,1
+Engraulis japonicus,marine_finfish,1
+Fenneropenaeus chinensis,inv,0
+Hyporhamphus sajori,marine_finfish,1
+Ibacus ciliatus,inv,0
+Konosirus punctatus,marine_finfish,1
+Larimichthys crocea,marine_finfish,1
+Larimichthys polyactis,marine_finfish,1
+Lateolabrax japonicus,marine_finfish,1
+Liparis tanakae,marine_finfish,1
+Planiliza haematocheila,marine_finfish,1
+Macolor,marine_finfish,1
+Menidae,marine_finfish,1
+Meretrix lusoria,inv,0
+Metapenaeus ensis,inv,0
+Metapenaeus joyneri,inv,0
+Miichthys miiuy,marine_finfish,1
+Mizuhopecten yessoensis,inv,0
+Mytilus coruscus,inv,0
+Nemipterus virgatus,marine_finfish,1
+Nibea albiflora,marine_finfish,1
+Nibea mitsukurii,marine_finfish,1
+Pagrus major,marine_finfish,1
+Pampus,marine_finfish,1
+Paralichthys olivaceus,marine_finfish,1
+Parupeneus barberinus,marine_finfish,1
+Penaeus penicillatus,inv,0
+Pennahia argentata,marine_finfish,1
+Pleurogrammus azonus,marine_finfish,1
+Polydactylus sexfilis,marine_finfish,1
+Portunus trituberculatus,inv,0
+Psenopsis anomala,marine_finfish,1
+Pseudopleuronectes herzensteini,marine_finfish,1
+Rhincodon typus,marine_finfish,0
+Sardinella zunasi,marine_finfish,1
+Saurida undosquamis,marine_finfish,1
+Scomberomorus niphonius,marine_finfish,1
+Spratelloides gracilis,marine_finfish,1
+Stephanolepis cirrhifer,marine_finfish,1
+Todarodes pacificus,inv,0
+Trachurus japonicus,marine_finfish,1
+Trachysalambria curvirostris,inv,0
+Tripneustes gratilla,inv,0
+Turbo cornutus,inv,0
+Euthynnus lineatus,marine_finfish,1
+Anchoa nasus,marine_finfish,1
+Argopecten ventricosus,inv,0
+Cetengraulis mysticetus,marine_finfish,1
+Chaetodipterus zonatus,marine_finfish,1
+Chloroscombrus orqueta,marine_finfish,1
+Hypanus longus,marine_finfish,1
+Farfantepenaeus brevirostris,inv,0
+Farfantepenaeus californiensis,inv,0
+Fistularia corneta,marine_finfish,1
+Heterocarpus vicarius,inv,0
+Litopenaeus occidentalis,inv,0
+Litopenaeus stylirostris,inv,0
+Litopenaeus vannamei,inv,0
+Lobotes pacificus,marine_finfish,1
+Merluccius angustimanus,marine_finfish,1
+Mustelus henlei,marine_finfish,0
+Mycteroperca xenarcha,marine_finfish,1
+Opisthonema libertate,marine_finfish,1
+Panulirus gracilis,inv,0
+Protrachypene precipua,inv,0
+Solenocera agassizii,inv,0
+Strombus,inv,0
+Conidae,inv,0
+Lambis,inv,0
+Murex,inv,0
+Palinurus mauritanicus,inv,0
+Squalus blainville,marine_finfish,0
+Cittarium pica,inv,0
+Bollmannia chlamydes,marine_finfish,1
+Brotula,marine_finfish,1
+Brotula clarkae,marine_finfish,1
+Cyclopsetta querna,marine_finfish,1
+Cynoscion reticulatus,marine_finfish,1
+Cynoscion stolzmanni,marine_finfish,1
+Diapterus peruvianus,marine_finfish,1
+Diplectrum pacificum,marine_finfish,1
+Engyophrys sanctilaurentii,marine_finfish,1
+Eucinostomus gracilis,marine_finfish,1
+Isopisthus remifer,marine_finfish,1
+Larimus acclivis,marine_finfish,1
+Larimus pacificus,marine_finfish,1
+Lutjanus guttatus,marine_finfish,1
+Lutjanus peru,marine_finfish,1
+Micropogonias altipinnis,marine_finfish,1
+Peprilus snyderi,marine_finfish,1
+Plesionika trispinus,inv,0
+Polydactylus approximans,marine_finfish,1
+Pomadasys macracanthus,marine_finfish,1
+Pomadasys panamensis,marine_finfish,1
+Porichthys margaritatus,marine_finfish,1
+Pronotogrammus eos,marine_finfish,1
+Scorpaena russula,marine_finfish,1
+Squilla biformis,inv,0
+Stellifer illecebrosus,marine_finfish,1
+Syacium ovale,marine_finfish,1
+Symphurus atramentatus,marine_finfish,1
+Synodus scituliceps,marine_finfish,1
+Bolinus brandaris,inv,0
+Chromis chromis,marine_finfish,1
+Rapana,inv,0
+Rapana venosa,inv,0
+Scomberesocidae,marine_finfish,1
+Carassius carassius,marine_finfish,1
+Coregonus oxyrinchus,marine_finfish,1
+Esox lucius,marine_finfish,1
+Gasterosteus aculeatus,marine_finfish,1
+Gymnocephalus cernua,marine_finfish,1
+Hypophthalmichthys nobilis,marine_finfish,1
+Leuciscus aspius,marine_finfish,1
+Leuciscus idus,marine_finfish,1
+Lota lota,marine_finfish,1
+Pelecus cultratus,marine_finfish,1
+Petromyzontidae,marine_finfish,1
+Silurus glanis,marine_finfish,1
+Spisula,inv,0
+Vimba,marine_finfish,0
+Anomura,inv,0
+Argentina silus,marine_finfish,1
+Crangon,inv,0
+Meganyctiphanes norvegica,inv,0
+Notoscopelus,marine_finfish,0
+Parupeneus indicus,marine_finfish,1
+Pomacanthidae,marine_finfish,1
+Sardinella longiceps,marine_finfish,1
+Scolopsis,marine_finfish,1
+Haemulon vittatum,marine_finfish,1
+Paralonchurus peruanus,marine_finfish,1
+Mobula mobular,marine_finfish,1
+Pomadasys stridens,marine_finfish,1
+Sargocentron,marine_finfish,1
+Scyllarides,inv,0
+Stomatopoda,inv,0
+Acanthurus sohal,marine_finfish,1
+Epinephelus summana,marine_finfish,1
+Trachinotus blochii,marine_finfish,1
+Epinephelus analogus,marine_finfish,1
+Micropogonias,marine_finfish,1
+Coregonus albula,marine_finfish,1
+Cottoperca gobio,marine_finfish,1
+Herklotsichthys quadrimaculatus,marine_finfish,1
+Alosa alosa,marine_finfish,1
+Callista chione,inv,0
+Dentex maroccanus,marine_finfish,1
+Diplodus cervinus,marine_finfish,1
+Dipturus nidarosiensis,marine_finfish,0
+Ensis ensis,inv,0
+Molva macrophthalma,marine_finfish,1
+Palaemon longirostris,inv,0
+Paphia,inv,0
+Pollicipes pollicipes,inv,0
+Rhinochimaera atlantica,marine_finfish,1
+Solea senegalensis,marine_finfish,1
+Spectrunculus grandis,marine_finfish,1
+Palaemon,inv,0
+Trachyrincus scabrus,marine_finfish,1
+Cynoscion steindachneri,marine_finfish,1
+Haemulon bonariense,marine_finfish,1
+Nematopalaemon schmitti,inv,0
+Odontognathus mucronatus,marine_finfish,1
+Porichthys,marine_finfish,1
+Sciades passany,marine_finfish,1
+Trachinotus cayennensis,marine_finfish,1
+Lethrinus xanthochilus,marine_finfish,1
+Naso brevirostris,marine_finfish,1
+Scarus oviceps,marine_finfish,1
+Caulolatilus princeps,marine_finfish,1
+Cymbium,inv,0
+Gerres nigri,marine_finfish,1
+Plectorhinchus macrolepis,marine_finfish,1
+Pseudotolithus senegallus,marine_finfish,1
+Pentheroscion mbizi,marine_finfish,1
+Clepticus parrae,marine_finfish,1
+Sphyraena picudilla,marine_finfish,1
+Ambassidae,marine_finfish,1
+Anomalops katoptron,marine_finfish,1
+Antennatus coccineus,marine_finfish,1
+Archaeogastropoda,inv,0
+Aulostomidae,marine_finfish,1
+Calappa hepatica,inv,0
+Caranx papuensis,marine_finfish,1
+Cassidae,inv,0
+Cheilinus undulatus,marine_finfish,1
+Chitonidae,inv,0
+Cirrhitidae,marine_finfish,1
+Corythoichthys intestinalis,marine_finfish,1
+Cypraeidae,inv,0
+Daldorfia horrida,inv,0
+Diogenidae,inv,0
+Hexabranchus sanguineus,inv,0
+Kuhliidae,marine_finfish,1
+Polymixia japonica,marine_finfish,1
+Pristipomoides sieboldii,marine_finfish,1
+Tectus pyramis,inv,0
+Terebridae,inv,0
+Tonna perdix,inv,0
+Toxopneustidae,inv,0
+Turbo setosus,inv,0
+Vasum turbinellum,inv,0
+Xanthidae,inv,0
+Hoplopagrus guentherii,marine_finfish,1
+Lutjanus argentiventris,marine_finfish,1
+Epinephelus goreensis,marine_finfish,1
+Eucinostomus argenteus,marine_finfish,1
+Abudefduf sordidus,marine_finfish,1
+Acanthurus blochii,marine_finfish,1
+Acanthurus dussumieri,marine_finfish,1
+Acanthurus nigrofuscus,marine_finfish,1
+Acanthurus olivaceus,marine_finfish,1
+Arothron hispidus,marine_finfish,1
+Aulostomus chinensis,marine_finfish,1
+Calotomus carolinus,marine_finfish,1
+Chaetodon lunula,marine_finfish,1
+Chaetodon unimaculatus,marine_finfish,1
+Cheilio inermis,marine_finfish,1
+Chlorurus sordidus,marine_finfish,1
+Gomphosus varius,marine_finfish,1
+Gymnothorax rueppelliae,marine_finfish,1
+Iniistius pavo,marine_finfish,1
+Kyphosus bigibbus,marine_finfish,1
+Kyphosus vaigiensis,marine_finfish,1
+Melichthys vidua,marine_finfish,1
+Mulloidichthys pfluegeri,marine_finfish,1
+Mulloidichthys vanicolensis,marine_finfish,1
+Myripristis amaena,marine_finfish,1
+Myripristis chryseres,marine_finfish,1
+Myripristis kuntee,marine_finfish,1
+Myripristis vittata,marine_finfish,1
+Naso annulatus,marine_finfish,1
+Naso hexacanthus,marine_finfish,1
+Neomyxus leuciscus,marine_finfish,1
+Novaculichthys taeniourus,marine_finfish,1
+Oxycheilinus unifasciatus,marine_finfish,1
+Paracirrhites forsteri,marine_finfish,1
+Parupeneus multifasciatus,marine_finfish,1
+Parupeneus pleurostigma,marine_finfish,1
+Pontinus macrocephalus,marine_finfish,1
+Scarus psittacus,marine_finfish,1
+Scarus rubroviolaceus,marine_finfish,1
+Scorpaenopsis diabolus,marine_finfish,1
+Sufflamen bursa,marine_finfish,1
+Uraspis helvola,marine_finfish,1
+Osteomugil engeli,marine_finfish,1
+Zebrasoma flavescens,marine_finfish,1
+Bathylagus,marine_finfish,1
+Bathyraja,marine_finfish,1
+Bathyraja eatonii,marine_finfish,1
+Bathyraja irrasa,marine_finfish,1
+Bathyraja murrayi,marine_finfish,1
+Benthalbella elongata,marine_finfish,1
+Borostomias antarcticus,marine_finfish,1
+Champsocephalus gunnari,marine_finfish,1
+Channichthys rhinoceratus,marine_finfish,1
+Gobionotothen acuta,marine_finfish,1
+Lindbergichthys mizops,marine_finfish,1
+Mancopsetta maculata,marine_finfish,1
+Notothenia coriiceps,marine_finfish,1
+Notothenia rossii,marine_finfish,1
+Paralomis aculeata,inv,0
+Zanclorhynchus spinifer,marine_finfish,1
+Rajella lintea,marine_finfish,1
+Sebastes viviparus,marine_finfish,1
+Trachipterus,marine_finfish,1
+Carcharhinus macloti,marine_finfish,0
+Congresox talabonoides,marine_finfish,1
+Panulirus homarus,inv,0
+Sardinella gibbosa,marine_finfish,1
+Liza klunzingeri,marine_finfish,1
+Lutjanus fulviflamma,marine_finfish,1
+Ophichthidae,marine_finfish,1
+Platax,marine_finfish,1
+Scarus persicus,marine_finfish,1
+Trachinotus mookalee,marine_finfish,1
+Leiognathus equulus,marine_finfish,1
+Amblyraja hyperborea,marine_finfish,1
+Aphanopus intermedius,marine_finfish,1
+Oxynotus paradoxus,marine_finfish,0
+Rajella,marine_finfish,1
+Chionoecetes japonicus,inv,0
+Hypoptychus dybowskii,marine_finfish,1
+Laemonema longipes,marine_finfish,1
+Lateolabracidae,marine_finfish,1
+Meretrix,inv,0
+Niphon spinosus,marine_finfish,1
+Oncorhynchus masou,marine_finfish,1
+Oplegnathus fasciatus,marine_finfish,1
+Oratosquilla oratoria,inv,0
+Pandalopsis japonica,inv,0
+Pandalus hypsinotus,inv,0
+Pandalus kessleri,inv,0
+Paralithodes,inv,0
+Paralithodes platypus,inv,0
+Pentaceros wheeleri,marine_finfish,1
+Sclerocrangon,inv,0
+Jasus frontalis,inv,0
+Echidna nebulosa,marine_finfish,1
+Gerres oblongus,marine_finfish,1
+Sepia latimanus,inv,0
+Nototodarus sloanii,inv,0
+Ostrea lutaria,inv,0
+Pecten novaezelandiae,inv,0
+Enoplolambrus validus,inv,0
+Centriscops humerosus,marine_finfish,1
+Paratrachichthys trailli,marine_finfish,1
+Notopogon lilliei,marine_finfish,1
+Argyrosomus hololepidotus,marine_finfish,1
+Caesio caerulaurea,marine_finfish,1
+Asaphis violascens,inv,0
+Hippopus hippopus,inv,0
+Hipposcarus longiceps,marine_finfish,1
+Gymnothorax maderensis,marine_finfish,1
+Lepas,inv,0
+Parapristipoma octolineatum,marine_finfish,1
+Psettodes bennettii,marine_finfish,1
+Argopecten gibbus,inv,0
+Bairdiella chrysoura,marine_finfish,1
+Brevoortia patronus,marine_finfish,1
+Cynoscion arenarius,marine_finfish,1
+Cynoscion nebulosus,marine_finfish,1
+Elops saurus,marine_finfish,1
+Hyperoglyphe bythites,marine_finfish,1
+Hyporthodus nigritus,marine_finfish,1
+Leiostomus xanthurus,marine_finfish,1
+Litopenaeus setiferus,inv,0
+Menticirrhus saxatilis,marine_finfish,1
+Micropogonias undulatus,marine_finfish,1
+Morone,marine_finfish,1
+Mycteroperca phenax,marine_finfish,1
+Polydactylus octonemus,marine_finfish,1
+Prionotus rubio,marine_finfish,1
+Genyonemus lineatus,marine_finfish,1
+Girella nigricans,marine_finfish,1
+Lile stolifera,marine_finfish,1
+Peprilus simillimus,marine_finfish,1
+Semicossyphus pulcher,marine_finfish,1
+Sicyonia ingentis,inv,0
+Stereolepis gigas,marine_finfish,1
+Totoaba macdonaldi,marine_finfish,1
+Acanthurus nigricauda,marine_finfish,1
+Chlorurus microrhinos,marine_finfish,1
+Epinephelus coeruleopunctatus,marine_finfish,1
+Parupeneus cyclostomus,marine_finfish,1
+Scarus dimidiatus,marine_finfish,1
+Austroglossus pectoralis,marine_finfish,1
+Chrysoblephus,marine_finfish,1
+Cymatoceps nasutus,marine_finfish,1
+Haliporoides triarthrus,inv,0
+Metanephrops,inv,0
+Metanephrops mozambicus,inv,0
+Palinurus delagoae,inv,0
+Austroglossus,marine_finfish,1
+Austroglossus microlepis,marine_finfish,1
+Callorhinchus capensis,marine_finfish,1
+Engraulis capensis,marine_finfish,1
+Etrumeus whiteheadi,marine_finfish,1
+Genypterus capensis,marine_finfish,1
+Jasus lalandii,inv,0
+Lampanyctodes hectoris,marine_finfish,1
+Lithognathus lithognathus,marine_finfish,1
+Rhabdosargus globiceps,marine_finfish,1
+Plectropomus leopardus,marine_finfish,1
+Siganus lineatus,marine_finfish,1
+Allothunnus fallai,marine_finfish,1
+Benthodesmus,marine_finfish,0
+Callorhinchidae,marine_finfish,1
+Capromimus abbreviatus,marine_finfish,1
+Cephaloscyllium isabellum,marine_finfish,1
+Chione stutchburyi,inv,0
+Chlamys delicatula,inv,0
+Diastobranchus capensis,marine_finfish,1
+Dipturus innominatus,marine_finfish,0
+Eptatretus cirrhatus,marine_finfish,1
+Hydrolagus novaezealandiae,marine_finfish,1
+Hyporhamphus ihi,marine_finfish,1
+Kathetostoma giganteum,marine_finfish,1
+Metanephrops challengeri,inv,0
+Meuschenia scaber,marine_finfish,1
+Mustelus lenticulatus,marine_finfish,1
+Paphies australis,inv,0
+Parapercis colias,marine_finfish,1
+Perna canaliculus,inv,0
+Polyprion,marine_finfish,1
+Pterygotrigla,marine_finfish,1
+Saccostrea,inv,0
+Tripterophycis gilchristi,marine_finfish,1
+Zearaja nasuta,marine_finfish,1
+Myripristis violacea,marine_finfish,1
+Paracirrhites hemistictus,marine_finfish,1
+Chlamys,inv,0
+Eleginus nawaga,marine_finfish,1
+Encrasicholina devisi,marine_finfish,1
+Stolephorus indicus,marine_finfish,1
+Stolephorus waitei,marine_finfish,1
+Carangoides bajad,marine_finfish,1
+Coregonus muksun,marine_finfish,1
+Coregonus laurettae,marine_finfish,1
+Coregonus pidschian,marine_finfish,1
+Lithodes aequispinus,inv,0
+Pandalus goniurus,inv,0
+Corniger spinosus,marine_finfish,1
+Diplodus sargus helenae ,marine_finfish,0
+Argyrozona argyrozona,marine_finfish,1
+Haliotis midae,inv,0
+Palinurus gilchristi,inv,0
+Triakis megalopterus,marine_finfish,0
+Petrus rupestris,marine_finfish,1
+Euphausia,inv,0
+Amblyraja georgiana,marine_finfish,1
+Bathydraconidae,marine_finfish,1
+Bathyraja maccaini,marine_finfish,0
+Chaenocephalus aceratus,marine_finfish,1
+Dissostichus,marine_finfish,1
+Dissostichus mawsoni,marine_finfish,1
+Electrona carlsbergi,marine_finfish,1
+Euphausia superba,inv,0
+Gobionotothen gibberifrons,marine_finfish,1
+Gymnoscopelus bolini,marine_finfish,1
+Macrourus holotrachys,marine_finfish,1
+Notolepis annulata,marine_finfish,1
+Nototheniops larseni,marine_finfish,1
+Paralomis formosa,inv,0
+Paralomis spinosissima,inv,0
+Protomyctophum choriodon,marine_finfish,1
+Pseudochaenichthys georgianus,marine_finfish,1
+Trematomus,marine_finfish,1
+Trematomus hansoni,marine_finfish,1
+Artedidraconidae,marine_finfish,1
+Chionobathyscus dewitti,marine_finfish,1
+Chionodraco myersi,marine_finfish,1
+Chionodraco rastrospinosus,marine_finfish,1
+Cryodraco antarcticus,marine_finfish,1
+Lindbergichthys nudifrons,marine_finfish,1
+Neopagetopsis ionah,marine_finfish,1
+Notothenia neglecta,marine_finfish,1
+Nototheniops nybelini,marine_finfish,1
+Trematomus eulepidotus,marine_finfish,1
+Leptoscarus vaigiensis,marine_finfish,1
+Mulloidichthys,marine_finfish,1
+Helicolenus mouchezi ,marine_finfish,0
+Jasus tristani,inv,0
+Sebastes capensis,marine_finfish,1
+Trachurus longimanus,marine_finfish,1
+Eriphia sebana,inv,0
+Lambis truncata,inv,0
+Strombus luhuanus,inv,0
+Hydrolagus mirabilis,marine_finfish,1
+Chionoecetes bairdi,inv,0
+Bellator militaris,marine_finfish,1
+Limulus polyphemus,inv,0
+Sphoeroides,marine_finfish,1
+Symphurus plagusia,marine_finfish,1
+Tresus nuttallii,inv,0
+Pteriidae,inv,0
