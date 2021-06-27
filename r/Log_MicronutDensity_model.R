@@ -101,9 +101,6 @@ col<-rep("black",nrow(datFig2))
 col[c(1,2,3,5)] <-"white"
 
 effect <- ggplot(datFig2,aes(x=Var, y=mean)) + 
-  annotate("rect", ymin = -0.38, ymax = 0.13, xmin = 7.5, xmax = 11.5, alpha = .7, fill="#3973ac")+
-  annotate("rect", ymin = -0.38, ymax = 0.13, xmin = 5.5, xmax = 7.5, alpha = .7, fill="#52527a")+ #Europe
-  annotate("rect", ymin = -0.38, ymax = 0.13, xmin = 0.5, xmax = 5.5, alpha = .7, fill="#666699")+ #Africa
   geom_hline(yintercept=0, lwd=0.5, lty=2)+
   geom_linerange(aes(x = Var,ymin = ll_95, ymax = ul_95),lwd=0.5)+
   geom_linerange(aes(x = Var,ymin = ll_75,ymax = ul_75),lwd=1.5)+
