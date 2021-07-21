@@ -2,6 +2,8 @@
 
 Data, statistical analyses, and R scripts accompanying Maire et al. Micronutrient supply from global marine fisheries under climate change and overfishing, 2021, Current Biology.
 
+https://www.cell.com/current-biology/fulltext/S0960-9822(21)00896-4
+
 Using the [SAU catch reconstruction database](http://www.seaaroundus.org/tools-guide/), we extracted catches from the EEZ of each country in tonnes and by species for the period 2010–2014. 
 We considered reported and unreported catches from the EEZ of each country and we excluded discards from these data. We limited the scope of our study to marine fisheries. 
 
